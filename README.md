@@ -4,6 +4,8 @@
   <img src="https://findlaydonnan.files.wordpress.com/2014/02/tumblr_mvv8m3wzei1r9e2uvo1_500.gif" width="200"/>
 </div>
 
+![Visitor Count](https://profile-counter.glitch.me/{kircova}/count.svg)
+
 
 <!--
 **kircova/kircova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Visitor Count](https://profile-counter.glitch.me/{kircova}/count.svg)
+
