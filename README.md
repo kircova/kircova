@@ -15,6 +15,8 @@
      <img src="https://findlaydonnan.files.wordpress.com/2014/02/tumblr_mvv8m3wzei1r9e2uvo1_500.gif" width="220"/>
 </div>
 
+## Number of visits to this Github profile
+
 ![Visitor Count](https://profile-counter.glitch.me/{kircova}/count.svg)
 
 
