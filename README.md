@@ -1,10 +1,16 @@
 ### Hello there, I am ***Yusufhan Kırçova***
 
-<div id="header">
-  <img src="https://findlaydonnan.files.wordpress.com/2014/02/tumblr_mvv8m3wzei1r9e2uvo1_500.gif" width="220"/>
+<div style="width: 20%; float:left">
+     <img src="https://findlaydonnan.files.wordpress.com/2014/02/tumblr_mvv8m3wzei1r9e2uvo1_500.gif" width="220"/>
+</div>
+
+<div style="width: 80%; float:right">
+   #right content in there
 </div>
 
 ![Visitor Count](https://profile-counter.glitch.me/{kircova}/count.svg)
+
+
 
 
 <div id="badges">
@@ -13,9 +19,6 @@
   </a>
   <a href="https://www.youtube.com/channel/UCFde37qTXxl-rxUSBp26-Zw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://www.instagram.com/yusufhankircova/">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
 
