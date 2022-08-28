@@ -1,11 +1,10 @@
 ### Hello there, I am ***Yusufhan Kırçova***
 
 <div id="header">
-  <img src="https://findlaydonnan.files.wordpress.com/2014/02/tumblr_mvv8m3wzei1r9e2uvo1_500.gif" width="200"/>
-  ![Visitor Count](https://profile-counter.glitch.me/{kircova}/count.svg)
+  <img src="https://findlaydonnan.files.wordpress.com/2014/02/tumblr_mvv8m3wzei1r9e2uvo1_500.gif" width="170"/>
 </div>
 
-
+![Visitor Count](https://profile-counter.glitch.me/{kircova}/count.svg)
 
 
 <!--
