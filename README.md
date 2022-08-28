@@ -1,7 +1,7 @@
 ### Hello there, I am ***Yusufhan Kırçova***
 
 <div id="header" align="center">
-  <img src="[https://giphy.com/gifs/american-dad-roger-the-alien-bzSWoFLMKgo00](https://media.giphy.com/media/bzSWoFLMKgo00/giphy.gif)" width="100"/>
+  <img src="https://media.giphy.com/media/bzSWoFLMKgo00/giphy.gif" width="100"/>
 </div>
 
 
