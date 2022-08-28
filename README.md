@@ -1,12 +1,25 @@
 ### Hello there, I am ***Yusufhan Kırçova***
 
-<div style="width: 50%; float:left">
-     <img src="https://findlaydonnan.files.wordpress.com/2014/02/tumblr_mvv8m3wzei1r9e2uvo1_500.gif" width="220"/>
-</div>
+<style>
+a{
+    color:red;
+    style="width: 50%; 
+    float:left
+}
+b{
+    style="width: 50%; 
+    float:right;
+}
+</style>
 
-<div style="width: 50%; float:right">
+
+<a>
+     <img src="https://findlaydonnan.files.wordpress.com/2014/02/tumblr_mvv8m3wzei1r9e2uvo1_500.gif" width="220"/>
+</a>
+
+<b>
   sfdsa
-</div>
+</b>
 
 ![Visitor Count](https://profile-counter.glitch.me/{kircova}/count.svg)
 
