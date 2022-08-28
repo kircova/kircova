@@ -2,7 +2,7 @@
 22 year old Computer Science and Electronics Engineering student based in Istanbul, Turkey.
 <div>
      <a href="https://www.linkedin.com/in/yusufhan/">
-     Check me out on linkedin <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
      </a>
 </div>
    
