@@ -1,5 +1,9 @@
 ### Hello there, I am ***Yusufhan Kırçova***
 22 year old Computer Science and Electronics Engineering student based in Istanbul, Turkey.
+<a href="https://www.linkedin.com/in/yusufhan/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
 
 <div>
      <img src="https://findlaydonnan.files.wordpress.com/2014/02/tumblr_mvv8m3wzei1r9e2uvo1_500.gif" width="220"/>
@@ -8,11 +12,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/{kircova}/count.svg)
 
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/yusufhan/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+
 
 <!--
 **kircova/kircova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
