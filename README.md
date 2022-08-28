@@ -1,7 +1,7 @@
 ### Hello there, I am ***Yusufhan Kırçova***
 
-<div id="header" align="center">
-  <img src="https://findlaydonnan.files.wordpress.com/2014/02/tumblr_mvv8m3wzei1r9e2uvo1_500.gif" width="100"/>
+<div id="header">
+  <img src="https://findlaydonnan.files.wordpress.com/2014/02/tumblr_mvv8m3wzei1r9e2uvo1_500.gif" width="200"/>
 </div>
 
 
