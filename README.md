@@ -1,8 +1,10 @@
 ### Hello there, I am ***Yusufhan Kırçova***
 22 year old Computer Science and Electronics Engineering student based in Istanbul, Turkey.
-<a href="https://www.linkedin.com/in/yusufhan/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
+<div>
+     <a href="https://www.linkedin.com/in/yusufhan/">
+     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+     </a>
+</div>
 
 
 <div>
