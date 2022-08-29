@@ -18,13 +18,16 @@
 
 </div>
 
+<div>
+     <center>
+     <img src="https://pa1.narvii.com/7058/0edfb3101dfeeab703074029a49ede9a4cf56723r1-800-450_hq.gif" width="220"/>
+     <center/>
+</div>
 
 
 ### Number of visits to this Github profile
 
-<div>
-     <img src="https://pa1.narvii.com/7058/0edfb3101dfeeab703074029a49ede9a4cf56723r1-800-450_hq.gif" width="220"/>
-</div>
+
 
 ![Visitor Count](https://profile-counter.glitch.me/{kircova}/count.svg)
 
