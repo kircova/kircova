@@ -20,7 +20,7 @@
 
 <div>
      <center>
-     <img src="https://pa1.narvii.com/7058/0edfb3101dfeeab703074029a49ede9a4cf56723r1-800-450_hq.gif" width="220"/>
+     <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="220"/>
      <center/>
 </div>
 
