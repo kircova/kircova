@@ -15,7 +15,22 @@
    
     
 <div>
-
+<center>
+          {
+      {   }
+       }_{ __{
+    .-{   }   }-.
+   (   }     {   )
+   |`-.._____..-'|
+   |             ;--.
+   |            (__  \
+   |             | )  )
+   |             |/  /
+   |             /  /   
+   |            (  /
+   \             y'
+    `-.._____..-'
+    </center>
 </div>
 
 
@@ -24,6 +39,9 @@
 
 
 ![Visitor Count](https://profile-counter.glitch.me/{kircova}/count.svg)
+
+
+
 
 
 
