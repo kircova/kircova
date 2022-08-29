@@ -18,12 +18,6 @@
 
 </div>
 
-<div>
-     <center>
-     <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="220"/>
-     <center/>
-</div>
-
 
 ### Number of visits to this Github profile
 
