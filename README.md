@@ -23,7 +23,7 @@
 ### Number of visits to this Github profile
 
 <div>
-     <img src="https://findlaydonnan.files.wordpress.com/2014/02/tumblr_mvv8m3wzei1r9e2uvo1_500.gif" width="220"/>
+     <img src="https://pa1.narvii.com/7058/0edfb3101dfeeab703074029a49ede9a4cf56723r1-800-450_hq.gif" width="220"/>
 </div>
 
 ![Visitor Count](https://profile-counter.glitch.me/{kircova}/count.svg)
