@@ -7,8 +7,6 @@
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
      </a>
 </div>
-   
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2gIkOmsenVuMdfIreD4F0R?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <div>
 <center>
