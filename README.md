@@ -4,7 +4,7 @@
 <table width="100%"> 
 
 <tr>
-     <p> 22 year old Computer Science and Electronics Engineering student based in Istanbul, Turkey.
+     <p align="center"> 22 year old Computer Science and Electronics Engineering student based in Istanbul, Turkey.
 
 </tr>
 
