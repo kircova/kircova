@@ -3,7 +3,15 @@
 </h1>
 
 22 year old Computer Science and Electronics Engineering student based in Istanbul, Turkey.
-
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+       
+  </td>
+  <td width="50%">
+       
+  </td>
+  </table>
 
 <!--
 **kircova/kircova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
