@@ -10,11 +10,14 @@
 
 <tr>
   <td width="50%">
-     <br><p align="center"> <b>Sabanci University</b>  <br>Computer Science B.Sc. 🎓  <br>Electronics Engineering B.Sc. 🎓 </b> <br> </p><br>
+     <br><p align="center"> <b>Sabanci University</b>  <br>Computer Science B.Sc. 🎓  <br>Electronics Engineering B.Sc. 🎓 </b></p><br>
+     ________________________________________________________
   </td>
   <td width="50%">
-     <br><p align="center"> <b>In progress</b> <br> </p><br>
-  </td> 
+     <br><p align="center">   <br><b>In progress</b> </p>
+     <br>    <br>
+     _________________________________________________________
+  </td>   
 </tr>
   
 </table>
