@@ -8,28 +8,6 @@
      </a>
 </div>
 
-<div>
-<center>
-    <p> 
-          {
-      {   }
-       }_{ __{
-    .-{   }   }-.
-   (   }     {   )
-   |`-.._____..-'|
-   |             ;--.
-   |            (__  \
-   |             | )  )
-   |             |/  /
-   |             /  /   
-   |            (  /
-   \             y'
-    `-.._____..-'
-          </p>
-    </center>
-</div>
-
-
 ### Number of visits to this Github profile
 
 
