@@ -1,4 +1,4 @@
-<h1>
+<h1 align="center">
 <a><img src="https://readme-typing-svg.herokuapp.com?font=d&duration=4000&pause=500&color=67DA2B&background=FFFFFF00&center=true&width=435&lines=Hello+There!+%F0%9F%91%8B+" alt="Typing SVG" /></a>
 </h1>
 <table width="100%"> 
