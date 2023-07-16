@@ -6,8 +6,7 @@
 <table width="100%"> 
   <tr>
   <td width="50%">
-       <br><p align="center"> <b>Sabanci University - Computer Science B.Sc. <br> TU Munich - Informatics M.Sc. Student </b> <br> <br>
-         </p>
+       <br><p align="center"> <b>Sabanci University - Computer Science B.Sc.</b> <br> </p><br>
   </td>
   <td width="50%">
        
