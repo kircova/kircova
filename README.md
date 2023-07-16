@@ -1,23 +1,8 @@
-## Hello there, I am ***Yusufhan Kırçova***
+<h1 align="center">
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=d&duration=4000&pause=500&color=67DA2B&background=FFFFFF00&center=true&width=435&lines=Hello+There!+%F0%9F%91%8B+" alt="Typing SVG" /></a>
+</h1>
+
 22 year old Computer Science and Electronics Engineering student based in Istanbul, Turkey.
-
-
-<div>
-     <a href="https://www.linkedin.com/in/yusufhan/">
-     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-     </a>
-</div>
-
-### Number of visits to this Github profile
-
-
-
-![Visitor Count](https://profile-counter.glitch.me/{kircova}/count.svg)
-
-
-
-
-
 
 
 <!--
