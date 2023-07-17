@@ -14,13 +14,17 @@
      ____________________________________________________
   </td>
   <td width="50%">
-     <br><br><p align="center">   <br><b>In progress</b> </p>
-     <br>    <br>
-     ____________________________________________________
+     <br>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/kircova)
+<br>
+     <br>
+
   </td>   
 </tr>
   
 </table>
+
 
 <!--
 **kircova/kircova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
