@@ -9,7 +9,7 @@
 
 <tr>
   <td width="50%">
-     <br><p align="center"> <b>UCL M.Sc. </b>  <br>Computer Graphics, <br> Vision and Imaging </b></p>
+     <p align="center"> <b>UCL M.Sc. </b>  <br>Computer Graphics, <br> Vision and Imaging </b></p>
   </td>
   <td width="50%">
      <br>
@@ -25,7 +25,6 @@
      <br>
        
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11144270695&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11144270695&redirect=true)
-     <br>
      <br>
   </td>
   
