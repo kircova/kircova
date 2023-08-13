@@ -9,7 +9,7 @@
 
 <tr>
   <td width="50%">
-     <br><br><p align="center"> <b>UCL M.Sc. </b>  <br>Computer Graphics, <br> Vision and Imaging </b></p><br>
+     <br><p align="center"> <b>UCL M.Sc. </b>  <br>Computer Graphics, <br> Vision and Imaging </b></p>
   </td>
   <td width="50%">
      <br>
