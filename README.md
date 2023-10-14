@@ -4,7 +4,7 @@
 <table align="center" width="100%"> 
 
 <tr>
-     <p align="center"> 23 year old Computer Science and Electronics Engineering student based in Istanbul, Turkey.
+     <p align="center"> 23 year old software developer, computer vision enthusiast based in London, United Kingdom
 </tr>
 
 <tr>
