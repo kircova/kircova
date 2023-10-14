@@ -14,9 +14,6 @@
   <td width="50%">
      <br>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/kircova)
-     <br>
-     <br>
 
   </td>   
 </tr>
