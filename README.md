@@ -1,5 +1,5 @@
 <h1 href="https://github.com/kircova" align="center">
-<a href="https://github.com/kircova" ><img src="https://readme-typing-svg.herokuapp.com?font=d&duration=4000&pause=500&color=67DA2B&background=FFFFFF00&center=true&width=435&lines=Hello+There!+%F0%9F%91%8B+" alt="Typing SVG" /></a>
+<a href="https://github.com/kircova" ><img src="https://readme-typing-svg.herokuapp.com?font=d&duration=4000&pause=500&color=F7F7F7&background=FFFFFF00&center=true&width=435&lines=Hello+There!+%F0%9F%91%8B+" alt="Typing SVG" /></a>
 </h1>
 <table align="center" width="100%"> 
 
