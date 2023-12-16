@@ -9,7 +9,9 @@
 
 <tr>
   <td width="50%">
+            <br>
      <p align="center"> <b>🏛️ UCL M.Sc. </b>  <br>Computer Graphics, <br> Vision and Imaging </b></p>
+          <br>
   </td>
   <td width="50%">
      <br>
