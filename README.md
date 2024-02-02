@@ -1,4 +1,4 @@
-<h1 href="https://github.com/kircova" align="center">
+
 <table align="center" width="100%"> 
 
 <tr>
