@@ -2,10 +2,6 @@
 <table align="center" width="100%"> 
 
 <tr>
-     <p align="center"> 23 year old software developer, computer vision enthusiast based in London, United Kingdom
-</tr>
-
-<tr>
   <td width="50%">
             <br>
      <p align="center"> <b>🏛️ UCL M.Sc. </b>  <br>Computer Graphics, <br> Vision and Imaging </b></p>
